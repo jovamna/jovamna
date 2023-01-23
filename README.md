@@ -2,7 +2,7 @@
 <h3 align="center">I am passionate about development in Django, Djangorest framework, I also have basic notions in react. I would like to share with developers in python and javascript, I appreciate your time reading me. Best Regards, Jovamna</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jovamna&label=Profile%20views&color=0e75b6&style=flat" alt="jovamna" /> </p>
+
 
 
 
@@ -24,3 +24,7 @@
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jovamna&label=Profile%20views&color=0e75b6&style=flat" alt="jovamna" /> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jovamna" alt="jovamna" /></a> </p>
