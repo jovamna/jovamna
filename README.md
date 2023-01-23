@@ -5,9 +5,11 @@
 
 <img src="https://github.com/jovamna/jovamna/blob/322d2af82f41d18a83c0fc165d4a1279922bcaf4/enviar.jpg " align="center" height="248" width="1248" alt="enviar.js" >
 
-
+<br>
+<br>
 
 <h1>Hello!! 👋, Thanks for visiting my github :heart:
+  <br>
 <h3 align="center" style="font-family: Verdana;">I am passionate about development in Django, Djangorest framework, I also have basic notions in react. I would like to share with developers in python and javascript, I appreciate your time reading me. Best Regards, Jovamna</h3>
 
 
