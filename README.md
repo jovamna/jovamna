@@ -1,5 +1,4 @@
-
-enviar.jpg
+https://github.com/jovamna/jovamna/blob/1f78b5dddb0b438e256ce43b3abd5a1439ed3674/enviar.jpg
 
 <h1 align="center">Hi 👋, I'm Jovamna</h1>
 <h3 align="center" style="font-family: Verdana;">I am passionate about development in Django, Djangorest framework, I also have basic notions in react. I would like to share with developers in python and javascript, I appreciate your time reading me. Best Regards, Jovamna</h3>
