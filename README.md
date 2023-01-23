@@ -1,4 +1,10 @@
-![This is me](https://github.com/jovamna/jovamna/blob/322d2af82f41d18a83c0fc165d4a1279922bcaf4/enviar.jpg align="left")
+
+
+
+
+
+<img src="https://github.com/jovamna/jovamna/blob/322d2af82f41d18a83c0fc165d4a1279922bcaf4/enviar.jpg " align="center" height="248" width="1248" alt="enviar.js" >
+
 
 
 <h1 align="center">Hi 👋, I'm Jovamna</h1>
