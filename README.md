@@ -10,12 +10,9 @@
 
 <h1>Hello!! 👋, Thanks for visiting my github :heart:
   <br>
-<h3 align="center" style="font-family: Verdana;">I am passionate about development in Django, Djangorest framework, I also have basic notions in react. I would like to share with developers in python and javascript, I appreciate your time reading me. Best Regards, Jovamna</h3>
-
-
-
-
-
+  <h2>About me </h2>
+- 
+I am passionate about Full Stack development in Django Rest Framework, I have basic notions in react, redux. I would like to share with developers in python and javascript
 
 - 🌱 I’m currently learning **React**
 
