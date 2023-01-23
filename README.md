@@ -11,12 +11,14 @@
 <h1>Hello!! 👋, Thanks for visiting my github :heart:
   <br>
   <h2>About me </h2>
-- 
-I am passionate about Full Stack development in Django Rest Framework, I have basic notions in react, redux. I would like to share with developers in python and javascript
 
+  
+- :gem: I am passionate about **Full Stack development in Python with Django Rest Framework and javascript, I have basic notions in react, redux**
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **with other developers on djangorestframework and react**
+- 👯 I’m looking to collaborate on **I would like to share with developers in python and javascript**
+  
+  - 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
