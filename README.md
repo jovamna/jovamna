@@ -8,6 +8,15 @@
 <br>
 <br>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jovamna&label=Profile%20views&color=0e75b6&style=flat" alt="jovamna" /> </p>
+
+
+![GitHub followers](https://img.shields.io/github/followers/jovamna?color=blue&style=social)
+
+
+
+
 <h1>Hello!! 👋, Thanks for visiting my github :purple_heart:
   <br>
   <h2>About me </h2>
@@ -35,5 +44,4 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jovamna&label=Profile%20views&color=0e75b6&style=flat" alt="jovamna" /> </p>
 
