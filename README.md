@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **I would like to share with developers in python and javascript**
   
-  - 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
