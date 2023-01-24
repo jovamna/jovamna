@@ -1,11 +1,11 @@
 
 
 
+![github-readme-profile](https://github.com/jovamna/jovamna/blob/72ec0f26b19ba1175241f61653190024e4cf8ea4/portada.jpg)
 
 
-<img src="https://github.com/jovamna/jovamna/blob/322d2af82f41d18a83c0fc165d4a1279922bcaf4/enviar.jpg " align="center" height="248" width="1248" alt="enviar.js" >
+***Hello!! 👋 Thanks for visiting my github*** :purple_heart:
 
-<br>
 <br>
 
 
@@ -17,7 +17,6 @@
 
 
 
-***Hello!! 👋 Thanks for visiting my github*** :purple_heart:
   <br>
   <h3>About me </h3>
 
@@ -45,3 +44,6 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/jovamna?color=blue&style=social)
+
+<img src=" " align="center" height="248" width="1248" alt="enviar.js" >
+
