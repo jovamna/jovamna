@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jovamna&label=Profile%20views&color=0e75b6&style=flat" alt="jovamna" /> </p>
 
 
-![GitHub followers](https://img.shields.io/github/followers/jovamna?color=blue&style=social)
+
 
 
 
@@ -44,4 +44,4 @@
 
 
 
-
+![GitHub followers](https://img.shields.io/github/followers/jovamna?color=blue&style=social)
