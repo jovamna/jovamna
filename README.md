@@ -17,9 +17,9 @@
 
 
 
-<h1>Hello!! 👋, Thanks for visiting my github :purple_heart:
+***Hello!! 👋 Thanks for visiting my github*** :purple_heart:
   <br>
-  <h2>About me </h2>
+  <h3>About me </h3>
 
   
 - :gem: I am passionate about **Full Stack development in Python with Django Rest Framework and javascript, I have basic notions in react, redux**
@@ -28,8 +28,8 @@
 - 👯 I’m looking to collaborate on **I would like to share with developers in python and javascript**
   
  
-
-<h3 align="left">Connect with me:</h3>
+<br>
+<p align="left">Connect with me:</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/jovamna-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jovamna-medina/" height="30" width="40" /></a>
 </p>
